@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in **Computational Linguistics** at Indiana University with a minor in Computer Science. My work bridges speech processing, data analysis, natural language understanding, and real-world applications — especially for **low-resource languages** and **clinical contexts** like Parkinson’s disease detection.
 
-🧠 My research focuses on:
+My research focuses on:
 - 🧪 **Voice-based biomarker detection** (e.g., Parkinson's severity from speech)
 - 🗣️ **Automatic Speech Recognition (ASR)** for under-represented and tonal languages
 - 🌍 **Multilingual NLP** and syntax-aware models (e.g., Korean, Arabic, Yoruba)
@@ -24,13 +24,13 @@ I'm a PhD candidate in **Computational Linguistics** at Indiana University with 
 
 Here are some of the projects I'm most proud of:
 
-### 🧾 [Speak & Summarize](https://github.com/yourusername/speak-and-summarize)
+### 🧾 [Speak & Summarize](https://github.com/ensteitz/speak-and-summarize)
 Fine-tuned summarization of Whisper-transcribed TED Talks using GPT and T5, comparing zero-shot, role-based, and chain-of-thought prompting strategies.
 
-### 🧠 [Parkinson's Voice Biomarker Detection](https://github.com/yourusername/parkinsons-voice)
+### 🧠 [Parkinson's Voice Biomarker Detection](https://github.com/ensteitz/parkinson-voice-biomarkers)
 Signal processing and machine learning pipeline to classify Parkinson's severity using extracted speech features (e.g., jitter, shimmer, MFCCs).
 
-### 🌐 [MultiGEC 2025 Shared Task](https://github.com/yourusername/multigec-gec-task)
+### 🌐 [MultiGEC 2025 Shared Task](https://github.com/mealieff/gec-645-iunlp)
 Grammatical error correction system incorporating dependency relations into the attention mechanism for multilingual grammar correction.
 
 ### 🗣️ [Dimasa Speech Recognition](https://github.com/ensteitz/dimasa-asr)
