@@ -24,29 +24,28 @@ My research focuses on:
 
 Here are some of the projects I'm most proud of:
 
-### 🧾 [Speak & Summarize](https://github.com/ensteitz/speak-and-summarize)
+### [Speak & Summarize](https://github.com/ensteitz/speak-and-summarize)
 Fine-tuned summarization of Whisper-transcribed TED Talks using GPT and T5, comparing zero-shot, role-based, and chain-of-thought prompting strategies.
 
-### 🧠 [Parkinson's Voice Biomarker Detection](https://github.com/ensteitz/parkinson-voice-biomarkers)
+### [Parkinson's Voice Biomarker Detection](https://github.com/ensteitz/parkinson-voice-biomarkers)
 Signal processing and machine learning pipeline to classify Parkinson's severity using extracted speech features (e.g., jitter, shimmer, MFCCs).
 
-### 🌐 [MultiGEC 2025 Shared Task](https://github.com/mealieff/gec-645-iunlp)
+### [MultiGEC 2025 Shared Task](https://github.com/mealieff/gec-645-iunlp)
 Grammatical error correction system incorporating dependency relations into the attention mechanism for multilingual grammar correction.
 
-### 🗣️ [Dimasa Speech Recognition](https://github.com/ensteitz/dimasa-asr)
+### [Dimasa Speech Recognition](https://github.com/ensteitz/dimasa-asr)
 Building an ASR system for the under-resourced Dimasa language using multilingual models and tone-aware evaluation strategies on a the Computational Resource on South Asian Languages (CoRSAL) corpus.
 
 ---
 
-## 📖 Publications & Presentations
-- 📄 _A Survey of Multilingual Models for ASR_ (reading group, CoRSAL 2025)
-- 📢 _Fine-tuning Whisper for Tonal Languages_ (upcoming, LREC 2025 submission)
+## Publications & Presentations
+- _A Survey of Multilingual Models for ASR_ (reading group, CoRSAL 2025)
+- _Fine-tuning Whisper for Tonal Languages_ (upcoming, LREC 2025 submission)
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
-- 📄 CV: 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/erinsteitz)
 - 📫 Email: erin.steitz [at] iu [dot] edu
 
